@@ -1,0 +1,46 @@
+company,position,avg_salary
+Google,Software Engineer,130000
+Google,Data Scientist,135000
+Google,Product Manager,145000
+Amazon,Software Engineer,120000
+Amazon,Data Scientist,125000
+Amazon,Product Manager,130000
+Microsoft,Software Engineer,115000
+Microsoft,Data Scientist,118000
+Microsoft,Product Manager,125000
+Meta,Software Engineer,140000
+Meta,Data Scientist,142000
+Meta,Product Manager,150000
+Apple,Software Engineer,135000
+Apple,Data Scientist,138000
+Apple,Product Manager,145000
+Netflix,Software Engineer,150000
+Netflix,Data Scientist,155000
+Netflix,Product Manager,160000
+Tesla,Software Engineer,125000
+Tesla,Data Scientist,130000
+Tesla,Product Manager,135000
+Startup,Software Engineer,80000
+Startup,Data Scientist,85000
+Startup,Product Manager,90000
+Nvidia,Software Engineer,145000
+Nvidia,Data Scientist,150000
+Nvidia,Product Manager,155000
+IBM,Software Engineer,105000
+IBM,Data Scientist,110000
+IBM,Product Manager,115000
+ByteDance,Software Engineer,125000
+ByteDance,Data Scientist,130000
+ByteDance,Product Manager,135000
+TikTok,Software Engineer,120000
+TikTok,Data Scientist,125000
+TikTok,Product Manager,130000
+JP Morgan,Software Engineer,110000
+JP Morgan,Data Scientist,115000
+JP Morgan,Product Manager,120000
+Goldman Sachs,Software Engineer,115000
+Goldman Sachs,Data Scientist,118000
+Goldman Sachs,Product Manager,125000
+Internship,Software Engineer Intern,40000
+Internship,Data Science Intern,42000
+Internship,Product Management Intern,45000
